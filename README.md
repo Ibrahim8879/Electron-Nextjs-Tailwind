@@ -11,4 +11,4 @@ A very simple and functional template for you to use Electron, Next and Tailwind
 -   Run `npm run build` or `yarn build` to create executable
 
 
-Feel free to use GitHub's features.
+Feel free to use.
