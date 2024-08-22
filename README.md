@@ -12,4 +12,5 @@ A very simple and functional template for you to use Electron, Next and Tailwind
 
 
 Feel free to use.
-Its an updated Version without Typescript of repository provided by this command : "npx create-nextron-app my-app --example with-tailwindcss"
+Its an updated Version without Typescript of repository provided by this command
+- `npx create-nextron-app my-app --example with-tailwindcss`
