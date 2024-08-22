@@ -1,4 +1,4 @@
-#Electron - Nextjs - TailwindCSS Template Without Typescript
+# Electron - Nextjs - TailwindCSS Template Without Typescript
 
 A very simple and functional template for you to use Electron, Next and TailwindCSS together.
 
