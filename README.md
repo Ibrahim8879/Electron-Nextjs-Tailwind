@@ -5,7 +5,7 @@ A very simple and functional template for you to use Electron, Next and Tailwind
 
 # Installation
 
--   Clone repo
+-   Clone repo `git clone https://github.com/Ibrahim8879/Electron-Nextjs-Tailwind`
 -   Run `npm install` or `yarn`
 -   Run `npm run dev` or `yarn dev` to start development server
 -   Run `npm run build` or `yarn build` to create executable
